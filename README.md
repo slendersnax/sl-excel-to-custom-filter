@@ -1,6 +1,10 @@
 # excel-to-custom-filter
 
-a package for converting an Excel column of unique ids into a Decipher Custom Filter search query
+a sublime package for converting an Excel column of unique ids into a Decipher Custom Filter search query
+
+## installation
+
+Code > Download ZIP. Then install to your Sublime Text Packages folder (same instructions as [this package](https://github.com/slendersnax/decipher-sublimetext-clips))
 
 ## how to use
 
